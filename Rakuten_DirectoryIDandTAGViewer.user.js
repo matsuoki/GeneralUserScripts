@@ -2,6 +2,8 @@
 // @id          Rakuten-Directory-ID-and-TAG-Viewer@matsuoki
 // @name        Rakuten Directory ID and TAG Viewer
 // @namespace   com.tachiuo.ec.rakuten
+// @downloadURL https://www.tachiuo.com/userscripts/Rakuten_Directory_ID_and_TAG_Viewer.user.js
+// @uploadURL   https://www.tachiuo.com/userscripts/Rakuten_Directory_ID_and_TAG_Viewer.user.js
 // @author      matsuoki@tachiuo.com
 // @description 楽天のアイテムの画面でディレクトリIDと商品タグを左上に表示します。
 // @include		https://item.rakuten.co.jp/*
