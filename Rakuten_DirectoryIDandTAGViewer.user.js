@@ -1,9 +1,12 @@
 // ==UserScript==
+// @id          Rakuten-Directory-ID-and-TAG-Viewer@matsuoki
 // @name        Rakuten Directory ID and TAG Viewer
 // @namespace   com.tachiuo.ec.rakuten
+// @author      matsuoki@tachiuo.com
+// @description 楽天のアイテムの画面でディレクトリIDと商品タグを左上に表示します。
 // @include		https://item.rakuten.co.jp/*
 // @include		http://item.rakuten.co.jp/*
-// @version     1.1
+// @version     1.1.20170727
 // @grant       none
 // ==/UserScript==
 
@@ -34,4 +37,3 @@ t.appendChild(a);
 
 var parent_object = document.getElementsByTagName("body")[0];
 parent_object.appendChild(t);
-
